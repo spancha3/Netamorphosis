@@ -14,3 +14,5 @@ Split the Date column into three separate columns viz. into YEAR, MONTH and DATE
 Now, we can visualize each particular month's value for client interaction
 
 From the derived graph, it was observed that the month of October has the most contacts over all the years and hence should be the preferred month of announcement.
+
+Graph can be viewed by opening the file named- "Count each Month.jpeg"
